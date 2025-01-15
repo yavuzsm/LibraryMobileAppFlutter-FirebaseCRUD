@@ -24,4 +24,4 @@ Download the google-services.json (for Android) and/or GoogleService-Info.plist 
 
 Run the app:
 
-flutter run
+`flutter run`
