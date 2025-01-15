@@ -12,11 +12,11 @@ Seamless connection to Firebase for backend services like Firestore and Authenti
 📂 Installation & Setup
 Clone the repository:
 
-git clone https://github.com/yavuzsm/LibraryMobileAppFlutter-FirebaseCRUD.git
+' git clone https://github.com/yavuzsm/LibraryMobileAppFlutter-FirebaseCRUD.git ' 
 
 Install dependencies:
 
-flutter pub get
+'flutter pub get'
 
 Set up Firebase:
 Create a Firebase project in the Firebase Console.
