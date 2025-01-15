@@ -11,7 +11,7 @@ Seamless connection to Firebase for backend services like Firestore and Authenti
 📂 Installation & Setup
 Clone the repository:
 
-git clone https://github.com/yavuzsm/librarymobileapp.git
+git clone https://github.com/yavuzsm/librarymobileapp.git](https://github.com/yavuzsm/LibraryMobileAppFlutter-FirebaseCRUD.git
 
 Install dependencies:
 
