@@ -17,9 +17,11 @@ git clone https://github.com/yavuzsm/librarymobileapp.git](https://github.com/ya
 Install dependencies:
 
 flutter pub get
+
 Set up Firebase:
 Create a Firebase project in the Firebase Console.
 Download the google-services.json (for Android) and/or GoogleService-Info.plist (for iOS) and place them in the appropriate directories.
+
 Run the app:
 
 flutter run
