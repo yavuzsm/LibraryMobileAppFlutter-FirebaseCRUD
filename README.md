@@ -8,6 +8,7 @@ CRUD Operations:
 Create, Read, Update, and Delete entries for library management.
 Firebase Integration:
 Seamless connection to Firebase for backend services like Firestore and Authentication.
+
 📂 Installation & Setup
 Clone the repository:
 
